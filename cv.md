@@ -48,3 +48,21 @@ add(3)(3);
 
 Self-development at JS, ES6, React.  
 HTMLAcademy - “HTML/CSS - online course”.  
+
+---
+
+### Basic skills and skills acquired in previous jobs:
+
+- Ability to work in a team.  
+- Resistance to stress.  
+- Time planning.  
+- Creativity.  
+- Discipline.  
+- Communicable.  
+
+---
+
+### Languages:
+
+English - A1+.  
+Polish - A1.  
