@@ -26,3 +26,25 @@
 - Working with the Git version control system.  
 - Work experience with - Webpack, NPM.  
 - Confident level of knowledge - HTML/HTML5, CSS/CSS3, Flex.  
+
+---
+
+### Code examples :
+
+```javascript
+let add = (a, b) => {
+  if (a && b) return a + b;
+
+  return (c) => a + c;
+};
+
+add(8, 8);
+add(3)(3);
+```
+
+---
+
+### Education and courses:
+
+Self-development at JS, ES6, React.  
+HTMLAcademy - “HTML/CSS - online course”.  
